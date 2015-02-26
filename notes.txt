@@ -1,0 +1,2 @@
+- Go to https://console.developers.google.com/project/PROJECT-ID/apiui/api and turn on "Google Cloud Messaging for Android"
+- Go to https://console.developers.google.com/project/PROJECT-ID/apiui/credential and create a new Public API access > Server Key then put 0.0.0.0/0 for IP.
